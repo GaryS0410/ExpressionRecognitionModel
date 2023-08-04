@@ -1,0 +1,8 @@
+# Ignoring automatically generated pycache directory 
+__pycache__/
+
+# Ignoring notebook checkpoints folder
+.ipynb_checkpoints/
+
+# Ignoring the datasets folder which contains the FER-2013 datset in .csv format
+datasets/
